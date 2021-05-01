@@ -1,5 +1,6 @@
 [workspace]
 
 members = [
-    "bytecode", "bytecode/macro"
+    "bytecode", "bytecode/macro",
+    "compliance_testing"
 ]
